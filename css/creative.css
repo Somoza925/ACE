@@ -312,8 +312,11 @@ header.masthead p {
   box-shadow: 0 0 0 0.2rem rgb(69, 146, 218) !important;
 }
 
-#sponsorMsg, #accenture {
+#sponsorMsg, #accenture, #jconcepts{
   padding-top: 40px; 
+}
+#sponsorPckg{
+  margin-top: 40px;
 }
 #mentorship {
   height: 420px;
